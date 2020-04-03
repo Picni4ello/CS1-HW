@@ -153,7 +153,7 @@ namespace homework02_01
                 //case 6: Task6();
                     //break;
                 //case 7: Task7();
-                    break;
+                    //break;
 
                 default:
                     Console.WriteLine("Неверная цифра");
